@@ -1,0 +1,289 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg" class="social-image" width="1200" height="630">
+    <style>
+        .1_15 { 
+            overflow:hidden;
+        }
+        .e1_15 { 
+            width:1200px;
+            height:630px;
+            position:absolute;
+        }
+        .e1_16 { 
+            background-color:rgba(255, 255, 255, 1);
+            width:1200px;
+            height:630px;
+            position:absolute;
+            left:0px;
+            top:0px;
+        }
+        .e1_17 { 
+            background-color:rgba(102.00000151991844, 187.00000405311584, 106.00000128149986, 1);
+            width:321px;
+            height:28px;
+            position:absolute;
+            left:0px;
+            top:602px;
+        }
+        .e2_11 { 
+            background-color:rgba(0, 115.00000074505806, 170.0000050663948, 1);
+            width:321px;
+            height:28px;
+            position:absolute;
+            left:321px;
+            top:602px;
+        }
+        .e2_12 { 
+            background-color:rgba(170.0000050663948, 40.799999088048935, 0, 1);
+            width:321px;
+            height:28px;
+            position:absolute;
+            left:642px;
+            top:602px;
+        }
+        .e2_13 { 
+            background-color:rgba(50.000000819563866, 55.00000052154064, 60.00000022351742, 1);
+            width:237px;
+            height:28px;
+            position:absolute;
+            left:963px;
+            top:602px;
+        }
+        .e2_15 { 
+            width:285px;
+            height:62px;
+            position:absolute;
+            left:843px;
+            top:479px;
+            background-image:url(images/image_1.png);
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+        .e1_19 { 
+            width:123px;
+            height:62px;
+            position:absolute;
+            left:553px;
+            top:481px;
+        }
+        .e1_20 { 
+            color:rgba(78.00000295042992, 87.00000241398811, 96.00000187754631, 1);
+            width:59px;
+            height:25px;
+            position:absolute;
+            left:43px;
+            top:37px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:18px;
+            letter-spacing:0;
+        }
+        .e1_21 { 
+            color:rgba(50.000000819563866, 55.00000052154064, 60.00000022351742, 1);
+            width:80px;
+            height:48px;
+            position:absolute;
+            left:43px;
+            top:0px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:24px;
+            letter-spacing:0;
+        }
+        .e1_22 { 
+            width:28px;
+            height:27px;
+            position:absolute;
+            left:0px;
+            top:2px;
+            background-image:url(images/downloads_icon.png);
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+        .e1_23 { 
+            width:94px;
+            height:62px;
+            position:absolute;
+            left:390px;
+            top:476px;
+        }
+        .e1_24 { 
+            width:33px;
+            height:36px;
+            position:absolute;
+            left:0px;
+            top:1px;
+            background-image:url(images/star_icon.png);
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+        .e1_25 { 
+            color:rgba(78.00000295042992, 87.00000241398811, 96.00000187754631, 1);
+            width:53px;
+            height:25px;
+            position:absolute;
+            left:41px;
+            top:37px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:18px;
+            letter-spacing:0;
+        }
+        .e1_26 { 
+            color:rgba(50.000000819563866, 55.00000052154064, 60.00000022351742, 1);
+            width:44px;
+            height:48px;
+            position:absolute;
+            left:41px;
+            top:0px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:24px;
+            letter-spacing:0;
+        }
+        .e1_27 { 
+            width:108px;
+            height:61px;
+            position:absolute;
+            left:223px;
+            top:477px;
+        }
+        .e1_28 { 
+            width:37px;
+            height:33px;
+            position:absolute;
+            left:0px;
+            top:0px;
+            background-image:url(images/locales_icon.png);
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+        .e1_29 { 
+            color:rgba(78.00000295042992, 87.00000241398811, 96.00000187754631, 1);
+            width:63px;
+            height:25px;
+            position:absolute;
+            left:45px;
+            top:36px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:18px;
+            letter-spacing:0;
+        }
+        .e1_30 { 
+            color:rgba(50.000000819563866, 55.00000052154064, 60.00000022351742, 1);
+            width:44px;
+            height:48px;
+            position:absolute;
+            left:45px;
+            top:0px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:24px;
+            letter-spacing:0;
+        }
+        .e1_31 { 
+            width:151px;
+            height:59px;
+            position:absolute;
+            left:61px;
+            top:476px;
+        }
+        .e1_32 { 
+            width:44px;
+            height:33px;
+            position:absolute;
+            left:0px;
+            top:1px;
+            background-image:url(images/people_icon.png);
+            background-repeat:no-repeat;
+            background-size:cover;
+        }
+        .e1_33 { 
+            color:rgba(78.00000295042992, 87.00000241398811, 96.00000187754631, 1);
+            width:107px;
+            height:25px;
+            position:absolute;
+            left:44px;
+            top:34px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:18px;
+            letter-spacing:0;
+        }
+        .e1_34 { 
+            color:rgba(50.000000819563866, 55.00000052154064, 60.00000022351742, 1);
+            width:44px;
+            height:48px;
+            position:absolute;
+            left:44px;
+            top:0px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:24px;
+            letter-spacing:0;
+        }
+        .e1_36 { 
+            color:rgba(78.09375151991844, 86.85937955975533, 95.625, 1);
+            width:688px;
+            height:83px;
+            position:absolute;
+            left:68px;
+            top:232px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:32px;
+            letter-spacing:0;
+        }
+        .e1_37 { 
+            color:rgba(50.000000819563866, 55.00000052154064, 60.00000022351742, 1);
+            width:563px;
+            height:119px;
+            position:absolute;
+            left:68px;
+            top:75px;
+            font-family:Open Sans;
+            text-align:left;
+            font-size:42px;
+            letter-spacing:0;
+        }
+        .e3_22 { 
+            width:300px;
+            height:300px;
+            position:absolute;
+            left:828px;
+            top:75px;
+            background-image:url(https://ps.w.org/givewp-donation-widgets-for-elementor/assets/icon-256x256.png);
+            background-repeat:no-repeat;
+            background-size:cover;
+        }        
+    </style>
+    <g>
+    <foreignObject x="0" y="0" width="1200" height="630">
+        <html lang="en"><head>
+            <meta charset="utf-8">
+          
+            <title>Html Generated</title>
+            <meta name="description" content="Figma htmlGenerator">
+            <meta name="author" content="htmlGenerator">
+            <link href="https://fonts.googleapis.com/css?family=Open+Sans&amp;display=swap" rel="stylesheet">
+
+            <link rel="stylesheet" href="styles.css">
+            
+            <style>
+              /*
+                Figma Background for illustrative/preview purposes only.
+                You can remove this style tag with no consequence
+              */
+              body {background: #E5E5E5; }
+            </style>
+          
+          </head>
+          
+          <body>
+            <div class="e1_15"><div class="e1_16"></div><div class="e1_17"></div><div class="e2_11"></div><div class="e2_12"></div><div class="e2_13"></div><div class="e2_15"></div><div class="e1_19"><span class="e1_20">Installs</span><span class="e1_21">100K+</span><div class="e1_22"></div></div><div class="e1_23"><div class="e1_24"></div><span class="e1_25">Rating</span><span class="e1_26">4.8</span></div><div class="e1_27"><div class="e1_28"></div><span class="e1_29">Locales</span><span class="e1_30">20</span></div><div class="e1_31"><div class="e1_32"></div><span class="e1_33">Contributors</span><span class="e1_34">16</span></div><span class="e1_36">Accept donations and begin fundraising with GiveWP, the highest rated WordPress donation plugin for online giving.
+            </span><span class="e1_37">{{title}}</span><div class="e4_5"><div class="e4_4"></div></div></div>
+          
+          </body></html>
+    </foreignObject>
+    </g>
+</svg>
