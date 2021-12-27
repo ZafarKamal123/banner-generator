@@ -4,7 +4,7 @@ const { convert } = require('convert-svg-to-png');
 
 const fs = require("fs");
 
-const PORT = 3000;
+const PORT = 5000;
 
 
 function replacePlaceholders(template, query) {
